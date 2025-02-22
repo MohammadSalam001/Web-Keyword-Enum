@@ -52,4 +52,20 @@ username
 ---
 
 ## Ethical Considerations 🔒
-This tool is meant for ethical hacking, OSINT research, and penetration testing. Use responsibly and do not target unauthorized websites.
+
+This tool is meant for **ethical hacking**, **OSINT** research, and **penetration testing**. It should be used responsibly and with explicit permission from the target organization or website owner. **Unauthorized use of this tool can lead to serious legal consequences, including criminal charges.**
+
+### Please Note:
+- **Do NOT** target websites without the owner's consent. Unauthorized access to or modification of data is illegal.
+- Always perform testing in a controlled, ethical, and legal manner. This means **obtaining written permission** before engaging in any hacking or penetration testing activities.
+- Use this tool only for educational purposes, authorized security testing, or improving your cybersecurity knowledge. **Do not use it to compromise or disrupt the operation of any system or network.**
+- Misusing this tool can result in **civil lawsuits, criminal prosecution, and reputational damage**.
+- Ensure compliance with the relevant laws and regulations, including local, state, and federal cybersecurity laws.
+
+### Remember:
+**If in doubt, always ask for permission.** Ethical hackers contribute positively to the cybersecurity community by identifying vulnerabilities and reporting them responsibly. Do not use this tool to exploit vulnerabilities or cause harm to others.
+
+---
+
+![searching](https://github.com/MohammadSalam001/Pictures/blob/main/searchinggif.gif)
+          __Happy learning!__
